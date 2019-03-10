@@ -1,11 +1,35 @@
-#westcoast {
-  display: none;
+.container {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  border: solid 2px black;
+  background-color: #F6F1D1;
 }
 
-#namibia {
-  display: none;
+h1 {
+  text-align: center;
+  background-color: #F6F1D1;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-weight: bolder;
+  margin: 0px;
 }
 
-#paris {
-  display: none;
+h3{
+  font-weight: bolder;
+}
+
+h4{
+  font-weight: bolder;
+}
+
+#sidebar{
+  margin: 0px;
+  margin-left: 39px;
+  background-color: #3EA7AD;
+  padding-bottom: 100%;
+  padding-left: 25px;
+  padding-right: 5px;
+  padding-top: 15px;
 }
